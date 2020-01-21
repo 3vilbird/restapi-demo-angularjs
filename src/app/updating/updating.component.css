@@ -1,0 +1,8 @@
+.center {
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+}
+.center1{
+  margin-left: 30px;
+}
